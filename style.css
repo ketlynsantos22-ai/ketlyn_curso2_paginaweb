@@ -1,0 +1,14 @@
+header {
+color: rgb(71, 118, 37);
+background-color:hsl(90, 100%, 50%)
+text-align: center;
+max-width: 800px:
+margin: 0 auto;
+}
+
+main{
+    color:rgb(233, 9, 9)
+    background-color:red
+max-width: 800px;
+margin: 0 auto;
+}

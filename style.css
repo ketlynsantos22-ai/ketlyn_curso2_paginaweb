@@ -15,7 +15,12 @@ main {
     padding: 16px;
 }
 
-img{
+img {
     width: 80px; 
-    height: 80px;
+    height: 80px; 
+    display:flex
 }
+
+  .frase{ 
+     font-size: bold;
+  }

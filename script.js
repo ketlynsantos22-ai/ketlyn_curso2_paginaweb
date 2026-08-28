@@ -1,8 +1,7 @@
 const botao = document.querySelector("button");
-botao.addEventlistener("click", botaoclicado);
+botao.addEventListener("click", botaoclicado);
 
-function botaoClicado() {
+function botaoclicado() {
     let texto = botao.querySelector("span");
-
- texto.textContent++;
-  }
+    texto.textContent++;
+}
